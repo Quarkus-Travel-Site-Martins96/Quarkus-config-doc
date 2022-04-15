@@ -1,0 +1,10 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: endpoints-config
+data:
+  endpoint.home: 'http://home-travel-site.apps-crc.testing'
+  endpoint.hotel: 'http://hotel-travel-site.apps-crc.testing'
+  endpoint.login: 'http://login-travel-site.apps-crc.testing'
+  endpoint.registration: 'http://registration-travel-site.apps-crc.testing'
+  endpoint.usermanagement: 'http://user-manager-travel-site.apps-crc.testing'
