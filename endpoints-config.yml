@@ -8,3 +8,4 @@ data:
   endpoint.login: 'http://login-travel-site.apps-crc.testing'
   endpoint.registration: 'http://registration-travel-site.apps-crc.testing'
   endpoint.usermanagement: 'http://user-manager-travel-site.apps-crc.testing'
+  endpoint.staticcontent: 'https://static-content-travelsite-travel-site.apps-crc.testing/'

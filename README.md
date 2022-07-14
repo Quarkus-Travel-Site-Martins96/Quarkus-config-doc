@@ -17,6 +17,10 @@ oc create -f db-secrets.yml
 oc create -f mail-secrets.yml
 ```
 
+```shell script
+oc create -f captcha-secrets.yml
+```
+
 Now on your Openshift project you will have a new Secret Map usable on build.
 
 ## Build configmap

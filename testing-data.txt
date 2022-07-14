@@ -1,0 +1,13 @@
+Credential for testing, I used these for running site in local and executing testing, NOT TO USE IN PRODUCTION
+
+DATABASE (local MariaDB)
+username: travel_user
+datasource.password: 27BEYOBob7
+
+EMAIL:
+username:   simple.travel.site.quarkus@gmail.com
+password:   lzgmvusaovttbxkg
+
+RECAPTCHA:
+Site:       6Lci1NIgAAAAALb0yqzmBBaiV0kOWXPnOZczl5pw
+Secret:     6Lci1NIgAAAAAI-K_yT9fvd9iUncaONtBUwJY3qX
