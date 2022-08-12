@@ -29,3 +29,8 @@ Include configmaps inside your Openahift project, in a logged in shell, run:
 ```shell script
 oc create -f endpoints-config.yml
 ```
+
+___
+
+# P.S.
+**These configuration are not real, the password and key must be changed with some real account configuration**
